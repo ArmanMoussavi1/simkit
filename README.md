@@ -8,7 +8,7 @@ A Python package for automating the setup and submission of molecular dynamics s
 
 ## About
 
-**SimKit** is an updated and modernized version of [AutoMD](https://github.com/zwu27/automd), originally created by Zhenghao Wu. This project builds upon AutoMD's foundation with significant improvements to:
+**SimKit** is an updated and modernized version of [AutoMD]([https://github.com/zwu27/automd](https://github.com/Chenghao-Wu/automd)), originally created by Zhenghao Wu. This project builds upon AutoMD's original foundation with significant improvements to:
 
 - Code structure and organization
 - Error handling and validation
@@ -17,7 +17,7 @@ A Python package for automating the setup and submission of molecular dynamics s
 - Logging system
 - User experience
 
-We are grateful to Zhenghao Wu for creating AutoMD and providing the foundation for this work.
+We are grateful to Zhenghao Wu for creating AutoMD and providing the foundation. I believe he has updated his version of AutoMD, so please refer there for more.
 
 ---
 
