@@ -2,7 +2,7 @@
 
 A Python package for automating the setup and submission of molecular dynamics simulations on HPC clusters with SLURM scheduling or local execution.
 
-**Authors:** Arman Moussavi, Zhenghao Wu
+**Author:** Arman Moussavi
 
 ---
 
